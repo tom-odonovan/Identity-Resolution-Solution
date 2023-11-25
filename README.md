@@ -1,5 +1,7 @@
 >Freelance Website Build
 
+<img height='auto' width='100%' src="./public/images/hero-image.png" alt="Website cover screenshot" /> 
+
 # Idenity Resolution Solution
 
 Welcome to the repository for the Identity Resolution Solution website. This project aims to create an informative and engaging website that showcases the need for, and features of, a cutting-edge Identity Resolution Software-as-a-Service (SaaS) product. The primary goal of this website is to attract potential contributors, collaborators, and investors who are interested in the field of identity resolution and its applications.
