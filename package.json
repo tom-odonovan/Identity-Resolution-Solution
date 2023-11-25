@@ -1,5 +1,8 @@
 {
   "name": "identity-resolution-solution",
+  "description": "Identity Resolution Solution Website",
+  "author": "Tom O'Donovan <tom.odonovan01@gmail.com>",
+  "license": "MIT",
   "version": "0.1.0",
   "private": true,
   "scripts": {
