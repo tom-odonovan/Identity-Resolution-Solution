@@ -13,7 +13,7 @@ const Navbar = () => {
           className='flex justify-center items-center'
         >
           <Image
-            src='/irs-logo.png'
+            src='/images/irs-logo.png'
             alt='logo'
             width={118}
             height={10}

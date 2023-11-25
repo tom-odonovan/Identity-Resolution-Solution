@@ -29,7 +29,7 @@ const Hero = () => {
         <div className='w-full h-[500px] rounded-[250px] rounded-tr-none overflow-hidden shadow-2xl'>
           <div className="hero__image">
             <Image
-              src="/hero.jpg"
+              src="/images/hero.jpg"
               alt='hero'
               width={800}
               height={700}
